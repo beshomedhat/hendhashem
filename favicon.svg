@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#16110f"/>
+  <g fill="none" stroke="#f7f1e6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- comedy mask (left, smiling) -->
+    <path d="M27 15 q-13 -1 -15 12 q-1.5 14 9 21 q5 3 8.5 -1.5"/>
+    <circle cx="17.5" cy="28" r="1.4" fill="#f7f1e6" stroke="none"/>
+    <circle cx="24.5" cy="28" r="1.4" fill="#f7f1e6" stroke="none"/>
+    <path d="M15 35 q5 5 11 1" stroke="#d8204a"/>
+    <!-- tragedy mask (right, frowning) -->
+    <path d="M37 15 q13 -1 15 12 q1.5 14 -9 21 q-5 3 -8.5 -1.5"/>
+    <circle cx="46.5" cy="28" r="1.4" fill="#f7f1e6" stroke="none"/>
+    <circle cx="39.5" cy="28" r="1.4" fill="#f7f1e6" stroke="none"/>
+    <path d="M38 37 q5 -5 11 -1" stroke="#d8204a"/>
+  </g>
+</svg>
